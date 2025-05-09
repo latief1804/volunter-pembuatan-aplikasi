@@ -9,4 +9,5 @@ Silahkan gunakan format berikut:<b>
 
 Berikut adalah daftar Volunteer yang diterima:
 * Lukas Bramantyo, [00.or.id](https://oo.or.id).
+* Lathif Ramadhan, [LinkedIn](https://www.linkedin.com/in/lathiframadhan/)
 
