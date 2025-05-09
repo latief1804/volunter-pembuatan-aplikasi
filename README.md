@@ -1,6 +1,6 @@
 # volunter-pembuatan-aplikasi
 Disclaimer: Ini hanya untuk latihan untuk melakukan kolaborasi di Github. <br>
-Repository ini digunakan sebagai sayembara pencarian volunteer untuk pembuatan aplikasi [Latief Ganteng]. <b>
+Repository ini digunakan sebagai sayembara pencarian volunteer untuk pembuatan aplikasi [Latief Ganteng].<b>
 
 Jika Anda tertarik untuk menjadi volunteer, silahkan lakukan PR(pull-request) pada berkas ini yah.<b>
 
